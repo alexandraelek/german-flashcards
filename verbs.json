@@ -1,0 +1,22 @@
+[
+  {
+    "german": "sich verlieben",
+    "english": "to fall in love",
+    "example": "Er verliebt sich in sie.",
+    "conjugations": {
+      "present": "Präsens: er verliebt sich",
+      "past": "Präteritum: er verliebte sich",
+      "perfect": "Perfekt: er hat sich verliebt"
+    }
+  },
+  {
+    "german": "anfangen",
+    "english": "to begin",
+    "example": "Das Spiel fängt an.",
+    "conjugations": {
+      "present": "Präsens: er fängt an",
+      "past": "Präteritum: er fing an",
+      "perfect": "Perfekt: er hat angefangen"
+    }
+  }
+]
