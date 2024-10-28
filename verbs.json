@@ -1,1602 +1,1602 @@
 [
   {
-    german: "aussteigen",
-    english: "to get out",
-    example: "Ich steige an der nächsten Haltestelle aus.",
-    conjugations: {
-      present: "Präsens: er steigt aus",
-      past: "Präteritum: er stieg aus",
-      perfect: "Perfekt: er ist ausgestiegen"
+    "german": "aussteigen",
+    "english": "to get out",
+    "example": "Ich steige an der nächsten Haltestelle aus.",
+    "conjugations": {
+      "present": "Präsens: er steigt aus",
+      "past": "Präteritum: er stieg aus",
+      "perfect": "Perfekt: er ist ausgestiegen"
     }
   },
   {
-    german: "einsteigen",
-    english: "to get in",
-    example: "Wir steigen in den Zug ein.",
-    conjugations: {
-      present: "Präsens: er steigt ein",
-      past: "Präteritum: er stieg ein",
-      perfect: "Perfekt: er ist eingestiegen"
+    "german": "einsteigen",
+    "english": "to get in",
+    "example": "Wir steigen in den Zug ein.",
+    "conjugations": {
+      "present": "Präsens: er steigt ein",
+      "past": "Präteritum: er stieg ein",
+      "perfect": "Perfekt: er ist eingestiegen"
     }
   },
   {
-    german: "umsteigen",
-    english: "to transfer",
-    example: "Ich muss in Berlin umsteigen.",
-    conjugations: {
-      present: "Präsens: er steigt um",
-      past: "Präteritum: er stieg um",
-      perfect: "Perfekt: er ist umgestiegen"
+    "german": "umsteigen",
+    "english": "to transfer",
+    "example": "Ich muss in Berlin umsteigen.",
+    "conjugations": {
+      "present": "Präsens: er steigt um",
+      "past": "Präteritum: er stieg um",
+      "perfect": "Perfekt: er ist umgestiegen"
     }
   },
   {
-    german: "bieten",
-    english: "to offer",
-    example: "Das Hotel bietet viele Annehmlichkeiten.",
-    conjugations: {
-      present: "Präsens: er bietet",
-      past: "Präteritum: er bot",
-      perfect: "Perfekt: er hat geboten"
+    "german": "bieten",
+    "english": "to offer",
+    "example": "Das Hotel bietet viele Annehmlichkeiten.",
+    "conjugations": {
+      "present": "Präsens: er bietet",
+      "past": "Präteritum: er bot",
+      "perfect": "Perfekt: er hat geboten"
     }
   },
   {
-    german: "fliegen",
-    english: "to fly",
-    example: "Wir fliegen nach Paris.",
-    conjugations: {
-      present: "Präsens: er fliegt",
-      past: "Präteritum: er flog",
-      perfect: "Perfekt: er ist geflogen"
+    "german": "fliegen",
+    "english": "to fly",
+    "example": "Wir fliegen nach Paris.",
+    "conjugations": {
+      "present": "Präsens: er fliegt",
+      "past": "Präteritum: er flog",
+      "perfect": "Perfekt: er ist geflogen"
     }
   },
   {
-    german: "frieren",
-    english: "to freeze",
-    example: "Mir ist kalt, ich friere.",
-    conjugations: {
-      present: "Präsens: er friert",
-      past: "Präteritum: er fror",
-      perfect: "Perfekt: er hat gefroren"
+    "german": "frieren",
+    "english": "to freeze",
+    "example": "Mir ist kalt, ich friere.",
+    "conjugations": {
+      "present": "Präsens: er friert",
+      "past": "Präteritum: er fror",
+      "perfect": "Perfekt: er hat gefroren"
     }
   },
   {
-    german: "geraten",
-    english: "to get into",
-    example: "Er gerät ins Moor.",
-    conjugations: {
-      present: "Präsens: er gerät",
-      past: "Präteritum: er geriet",
-      perfect: "Perfekt: er ist geraten"
+    "german": "geraten",
+    "english": "to get into",
+    "example": "Er gerät ins Moor.",
+    "conjugations": {
+      "present": "Präsens: er gerät",
+      "past": "Präteritum: er geriet",
+      "perfect": "Perfekt: er ist geraten"
     }
   },
   {
-    german: "mitnehmen",
-    english: "to take along",
-    example: "Nimm dein Buch mit!",
-    conjugations: {
-      present: "Präsens: er nimmt mit",
-      past: "Präteritum: er nahm mit",
-      perfect: "Perfekt: er hat mitgenommen"
+    "german": "mitnehmen",
+    "english": "to take along",
+    "example": "Nimm dein Buch mit!",
+    "conjugations": {
+      "present": "Präsens: er nimmt mit",
+      "past": "Präteritum: er nahm mit",
+      "perfect": "Perfekt: er hat mitgenommen"
     }
   },
   {
-    german: "schweigen",
-    english: "to be silent",
-    example: "Wir schweigen über das Thema.",
-    conjugations: {
-      present: "Präsens: er schweigt",
-      past: "Präteritum: er schwieg",
-      perfect: "Perfekt: er hat geschwiegen"
+    "german": "schweigen",
+    "english": "to be silent",
+    "example": "Wir schweigen über das Thema.",
+    "conjugations": {
+      "present": "Präsens: er schweigt",
+      "past": "Präteritum: er schwieg",
+      "perfect": "Perfekt: er hat geschwiegen"
     }
   },
   {
-    german: "schwimmen",
-    english: "to swim",
-    example: "Ich schwimme gerne im See.",
-    conjugations: {
-      present: "Präsens: er schwimmt",
-      past: "Präteritum: er schwamm",
-      perfect: "Perfekt: er ist geschwommen"
+    "german": "schwimmen",
+    "english": "to swim",
+    "example": "Ich schwimme gerne im See.",
+    "conjugations": {
+      "present": "Präsens: er schwimmt",
+      "past": "Präteritum: er schwamm",
+      "perfect": "Perfekt: er ist geschwommen"
     }
   },
   {
-    german: "sehen",
-    english: "to see",
-    example: "Ich sehe den Film morgen.",
-    conjugations: {
-      present: "Präsens: er sieht",
-      past: "Präteritum: er sah",
-      perfect: "Perfekt: er hat gesehen"
+    "german": "sehen",
+    "english": "to see",
+    "example": "Ich sehe den Film morgen.",
+    "conjugations": {
+      "present": "Präsens: er sieht",
+      "past": "Präteritum: er sah",
+      "perfect": "Perfekt: er hat gesehen"
     }
   },
   {
-    german: "stattfinden",
-    english: "to take place",
-    example: "Die Feier findet morgen statt.",
-    conjugations: {
-      present: "Präsens: es findet statt",
-      past: "Präteritum: es fand statt",
-      perfect: "Perfekt: es hat stattgefunden"
+    "german": "stattfinden",
+    "english": "to take place",
+    "example": "Die Feier findet morgen statt.",
+    "conjugations": {
+      "present": "Präsens: es findet statt",
+      "past": "Präteritum: es fand statt",
+      "perfect": "Perfekt: es hat stattgefunden"
     }
   },
   {
-    german: "steigen",
-    english: "to climb",
-    example: "Wir steigen auf den Berg.",
-    conjugations: {
-      present: "Präsens: er steigt",
-      past: "Präteritum: er stieg",
-      perfect: "Perfekt: er ist gestiegen"
+    "german": "steigen",
+    "english": "to climb",
+    "example": "Wir steigen auf den Berg.",
+    "conjugations": {
+      "present": "Präsens: er steigt",
+      "past": "Präteritum: er stieg",
+      "perfect": "Perfekt: er ist gestiegen"
     }
   },
   {
-    german: "verlassen",
-    english: "to leave",
-    example: "Ich verlasse den Raum.",
-    conjugations: {
-      present: "Präsens: er verlässt",
-      past: "Präteritum: er verließ",
-      perfect: "Perfekt: er hat verlassen"
+    "german": "verlassen",
+    "english": "to leave",
+    "example": "Ich verlasse den Raum.",
+    "conjugations": {
+      "present": "Präsens: er verlässt",
+      "past": "Präteritum: er verließ",
+      "perfect": "Perfekt: er hat verlassen"
     }
   },
   {
-    german: "bedeuten",
-    english: "to mean",
-    example: "Was bedeutet dieses Wort?",
-    conjugations: {
-      present: "Präsens: er bedeutet",
-      past: "Präteritum: er bedeutete",
-      perfect: "Perfekt: er hat bedeutet"
+    "german": "bedeuten",
+    "english": "to mean",
+    "example": "Was bedeutet dieses Wort?",
+    "conjugations": {
+      "present": "Präsens: er bedeutet",
+      "past": "Präteritum: er bedeutete",
+      "perfect": "Perfekt: er hat bedeutet"
     }
   },
   {
-    german: "buchen",
-    english: "to book",
-    example: "Wir buchen eine Reise.",
-    conjugations: {
-      present: "Präsens: er bucht",
-      past: "Präteritum: er buk",
-      perfect: "Perfekt: er hat gebucht"
+    "german": "buchen",
+    "english": "to book",
+    "example": "Wir buchen eine Reise.",
+    "conjugations": {
+      "present": "Präsens: er bucht",
+      "past": "Präteritum: er buk",
+      "perfect": "Perfekt: er hat gebucht"
     }
   },
   {
-    german: "glauben",
-    english: "to believe",
-    example: "Ich glaube dir.",
-    conjugations: {
-      present: "Präsens: er glaubt",
-      past: "Präteritum: er glaubte",
-      perfect: "Perfekt: er hat geglaubt"
+    "german": "glauben",
+    "english": "to believe",
+    "example": "Ich glaube dir.",
+    "conjugations": {
+      "present": "Präsens: er glaubt",
+      "past": "Präteritum: er glaubte",
+      "perfect": "Perfekt: er hat geglaubt"
     }
   },
   {
-    german: "reisen",
-    english: "to travel",
-    example: "Wir reisen nach Deutschland.",
-    conjugations: {
-      present: "Präsens: er reist",
-      past: "Präteritum: er reiste",
-      perfect: "Perfekt: er ist gereist"
+    "german": "reisen",
+    "english": "to travel",
+    "example": "Wir reisen nach Deutschland.",
+    "conjugations": {
+      "present": "Präsens: er reist",
+      "past": "Präteritum: er reiste",
+      "perfect": "Perfekt: er ist gereist"
     }
   },
   {
-    german: "regieren",
-    english: "to govern",
-    example: "Er regiert das Land.",
-    conjugations: {
-      present: "Präsens: er regiert",
-      past: "Präteritum: er regierte",
-      perfect: "Perfekt: er hat regiert"
+    "german": "regieren",
+    "english": "to govern",
+    "example": "Er regiert das Land.",
+    "conjugations": {
+      "present": "Präsens: er regiert",
+      "past": "Präteritum: er regierte",
+      "perfect": "Perfekt: er hat regiert"
     }
   },
   {
-    german: "regnen",
-    english: "to rain",
-    example: "Es regnet heute.",
-    conjugations: {
-      present: "Präsens: es regnet",
-      past: "Präteritum: es regnete",
-      perfect: "Perfekt: es hat geregnet"
+    "german": "regnen",
+    "english": "to rain",
+    "example": "Es regnet heute.",
+    "conjugations": {
+      "present": "Präsens: es regnet",
+      "past": "Präteritum: es regnete",
+      "perfect": "Perfekt: es hat geregnet"
     }
   },
   {
-    german: "reservieren",
-    english: "to reserve",
-    example: "Wir reservieren einen Tisch.",
-    conjugations: {
-      present: "Präsens: er reserviert",
-      past: "Präteritum: er reservierte",
-      perfect: "Perfekt: er hat reserviert"
+    "german": "reservieren",
+    "english": "to reserve",
+    "example": "Wir reservieren einen Tisch.",
+    "conjugations": {
+      "present": "Präsens: er reserviert",
+      "past": "Präteritum: er reservierte",
+      "perfect": "Perfekt: er hat reserviert"
     }
   },
   {
-    german: "schmecken",
-    english: "to taste",
-    example: "Das Essen schmeckt gut.",
-    conjugations: {
-      present: "Präsens: es schmeckt",
-      past: "Präteritum: es schmeckte",
-      perfect: "Perfekt: es hat geschmeckt"
+    "german": "schmecken",
+    "english": "to taste",
+    "example": "Das Essen schmeckt gut.",
+    "conjugations": {
+      "present": "Präsens: es schmeckt",
+      "past": "Präteritum: es schmeckte",
+      "perfect": "Perfekt: es hat geschmeckt"
     }
   },
   {
-    german: "schneien",
-    english: "to snow",
-    example: "Es schneit im Winter.",
-    conjugations: {
-      present: "Präsens: es schneit",
-      past: "Präteritum: es schneite",
-      perfect: "Perfekt: es hat geschneit"
+    "german": "schneien",
+    "english": "to snow",
+    "example": "Es schneit im Winter.",
+    "conjugations": {
+      "present": "Präsens: es schneit",
+      "past": "Präteritum: es schneite",
+      "perfect": "Perfekt: es hat geschneit"
     }
   },
   {
-    german: "stürmen",
-    english: "to storm",
-    example: "Es stürmt draußen.",
-    conjugations: {
-      present: "Präsens: es stürmt",
-      past: "Präteritum: es stürmte",
-      perfect: "Perfekt: es hat gestürmt"
+    "german": "stürmen",
+    "english": "to storm",
+    "example": "Es stürmt draußen.",
+    "conjugations": {
+      "present": "Präsens: es stürmt",
+      "past": "Präteritum: es stürmte",
+      "perfect": "Perfekt: es hat gestürmt"
     }
   },
   {
-    german: "übernachten",
-    english: "to stay overnight",
-    example: "Wir übernachten im Hotel.",
-    conjugations: {
-      present: "Präsens: er übernachtet",
-      past: "Präteritum: er übernachtete",
-      perfect: "Perfekt: er hat übernachtet"
+    "german": "übernachten",
+    "english": "to stay overnight",
+    "example": "Wir übernachten im Hotel.",
+    "conjugations": {
+      "present": "Präsens: er übernachtet",
+      "past": "Präteritum: er übernachtete",
+      "perfect": "Perfekt: er hat übernachtet"
     }
   },
   {
-    german: "verfügen",
-    english: "to have (something) at one's disposal",
-    example: "Das Zimmer verfügt über eine Minibar.",
-    conjugations: {
-      present: "Präsens: er verfügt",
-      past: "Präteritum: er verfügte",
-      perfect: "Perfekt: er hat verfügt"
+    "german": "verfügen",
+    "english": "to have (something) at one's disposal",
+    "example": "Das Zimmer verfügt über eine Minibar.",
+    "conjugations": {
+      "present": "Präsens: er verfügt",
+      "past": "Präteritum: er verfügte",
+      "perfect": "Perfekt: er hat verfügt"
     }
   },
   {
-    german: "zeugen",
-    english: "to bear (a child)",
-    example: "Sie zeugen ein Kind.",
-    conjugations: {
-      present: "Präsens: er zeugt",
-      past: "Präteritum: er zeugte",
-      perfect: "Perfekt: er hat gezeugt"
+    "german": "zeugen",
+    "english": "to bear (a child)",
+    "example": "Sie zeugen ein Kind.",
+    "conjugations": {
+      "present": "Präsens: er zeugt",
+      "past": "Präteritum: er zeugte",
+      "perfect": "Perfekt: er hat gezeugt"
     }
   },
   {
-    german: "auswählen (einen Film)",
-    english: "to choose (a movie)",
-    example: "Ich wähle einen Film aus.",
-    conjugations: {
-      present: "Präsens: er wählt aus",
-      past: "Präteritum: er wählte aus",
-      perfect: "Perfekt: er hat ausgewählt"
+    "german": "auswählen (einen Film)",
+    "english": "to choose (a movie)",
+    "example": "Ich wähle einen Film aus.",
+    "conjugations": {
+      "present": "Präsens: er wählt aus",
+      "past": "Präteritum: er wählte aus",
+      "perfect": "Perfekt: er hat ausgewählt"
     }
   },
   {
-    german: "belegen (einen Spitzenplatz)",
-    english: "to secure (a top position)",
-    example: "Die Mannschaft belegt den ersten Platz.",
-    conjugations: {
-      present: "Präsens: er belegt",
-      past: "Präteritum: er belegte",
-      perfect: "Perfekt: er hat belegt"
+    "german": "belegen (einen Spitzenplatz)",
+    "english": "to secure (a top position)",
+    "example": "Die Mannschaft belegt den ersten Platz.",
+    "conjugations": {
+      "present": "Präsens: er belegt",
+      "past": "Präteritum: er belegte",
+      "perfect": "Perfekt: er hat belegt"
     }
   },
   {
-    german: "beobachten (jemanden)",
-    english: "to observe (someone)",
-    example: "Ich beobachte die Vögel im Park.",
-    conjugations: {
-      present: "Präsens: er beobachtet",
-      past: "Präteritum: er beobachtete",
-      perfect: "Perfekt: er hat beobachtet"
+    "german": "beobachten (jemanden)",
+    "english": "to observe (someone)",
+    "example": "Ich beobachte die Vögel im Park.",
+    "conjugations": {
+      "present": "Präsens: er beobachtet",
+      "past": "Präteritum: er beobachtete",
+      "perfect": "Perfekt: er hat beobachtet"
     }
   },
   {
-    german: "erzählen (eine Geschichte)",
-    english: "to tell (a story)",
-    example: "Sie erzählt mir eine Geschichte.",
-    conjugations: {
-      present: "Präsens: er erzählt",
-      past: "Präteritum: er erzählte",
-      perfect: "Perfekt: er hat erzählt"
+    "german": "erzählen (eine Geschichte)",
+    "english": "to tell (a story)",
+    "example": "Sie erzählt mir eine Geschichte.",
+    "conjugations": {
+      "present": "Präsens: er erzählt",
+      "past": "Präteritum: er erzählte",
+      "perfect": "Perfekt: er hat erzählt"
     }
   },
   {
-    german: "kommunizieren (in Netzwerken)",
-    english: "to communicate (in networks)",
-    example: "Die Menschen kommunizieren in sozialen Netzwerken.",
-    conjugations: {
-      present: "Präsens: er kommuniziert",
-      past: "Präteritum: er kommunizierte",
-      perfect: "Perfekt: er hat kommuniziert"
+    "german": "kommunizieren (in Netzwerken)",
+    "english": "to communicate (in networks)",
+    "example": "Die Menschen kommunizieren in sozialen Netzwerken.",
+    "conjugations": {
+      "present": "Präsens: er kommuniziert",
+      "past": "Präteritum: er kommunizierte",
+      "perfect": "Perfekt: er hat kommuniziert"
     }
   },
   {
-    german: "unterrichten (jemanden)",
-    english: "to teach (someone)",
-    example: "Der Lehrer unterrichtet die Schüler.",
-    conjugations: {
-      present: "Präsens: er unterrichtet",
-      past: "Präteritum: er unterrichtete",
-      perfect: "Perfekt: er hat unterrichtet"
+    "german": "unterrichten (jemanden)",
+    "english": "to teach (someone)",
+    "example": "Der Lehrer unterrichtet die Schüler.",
+    "conjugations": {
+      "present": "Präsens: er unterrichtet",
+      "past": "Präteritum: er unterrichtete",
+      "perfect": "Perfekt: er hat unterrichtet"
     }
   },
   {
-    german: "verdienen (Geld)",
-    english: "to earn (money)",
-    example: "Er verdient viel Geld.",
-    conjugations: {
-      present: "Präsens: er verdient",
-      past: "Präteritum: er verdiente",
-      perfect: "Perfekt: er hat verdient"
+    "german": "verdienen (Geld)",
+    "english": "to earn (money)",
+    "example": "Er verdient viel Geld.",
+    "conjugations": {
+      "present": "Präsens: er verdient",
+      "past": "Präteritum: er verdiente",
+      "perfect": "Perfekt: er hat verdient"
     }
   },
   {
-    german: "verspielen (Geld)",
-    english: "to gamble away (money)",
-    example: "Er verspielt sein Geld im Casino.",
-    conjugations: {
-      present: "Präsens: er verspielt",
-      past: "Präteritum: er verspielt",
-      perfect: "Perfekt: er hat verspielt"
+    "german": "verspielen (Geld)",
+    "english": "to gamble away (money)",
+    "example": "Er verspielt sein Geld im Casino.",
+    "conjugations": {
+      "present": "Präsens: er verspielt",
+      "past": "Präteritum: er verspielt",
+      "perfect": "Perfekt: er hat verspielt"
     }
   },
   {
-    german: "anrufen",
-    english: "to call",
-    example: "Ich rufe dich morgen an.",
-    conjugations: {
-      present: "Präsens: er ruft an",
-      past: "Präteritum: er rief an",
-      perfect: "Perfekt: er hat angerufen"
+    "german": "anrufen",
+    "english": "to call",
+    "example": "Ich rufe dich morgen an.",
+    "conjugations": {
+      "present": "Präsens: er ruft an",
+      "past": "Präteritum: er rief an",
+      "perfect": "Perfekt: er hat angerufen"
     }
   },
   {
-    german: "einladen (jemanden)",
-    english: "to invite (someone)",
-    example: "Ich lade dich zu meiner Party ein.",
-    conjugations: {
-      present: "Präsens: er lädt ein",
-      past: "Präteritum: er lud ein",
-      perfect: "Perfekt: er hat eingeladen"
+    "german": "einladen (jemanden)",
+    "english": "to invite (someone)",
+    "example": "Ich lade dich zu meiner Party ein.",
+    "conjugations": {
+      "present": "Präsens: er lädt ein",
+      "past": "Präteritum: er lud ein",
+      "perfect": "Perfekt: er hat eingeladen"
     }
   },
   {
-    german: "empfangen (Gäste)",
-    english: "to receive (guests)",
-    example: "Wir empfangen die Gäste im Wohnzimmer.",
-    conjugations: {
-      present: "Präsens: er empfängt",
-      past: "Präteritum: er empfing",
-      perfect: "Perfekt: er hat empfangen"
+    "german": "empfangen (Gäste)",
+    "english": "to receive (guests)",
+    "example": "Wir empfangen die Gäste im Wohnzimmer.",
+    "conjugations": {
+      "present": "Präsens: er empfängt",
+      "past": "Präteritum: er empfing",
+      "perfect": "Perfekt: er hat empfangen"
     }
   },
   {
-    german: "empfehlen",
-    english: "to recommend",
-    example: "Ich empfehle dir dieses Restaurant.",
-    conjugations: {
-      present: "Präsens: er empfiehlt",
-      past: "Präteritum: er empfahl",
-      perfect: "Perfekt: er hat empfohlen"
+    "german": "empfehlen",
+    "english": "to recommend",
+    "example": "Ich empfehle dir dieses Restaurant.",
+    "conjugations": {
+      "present": "Präsens: er empfiehlt",
+      "past": "Präteritum: er empfahl",
+      "perfect": "Perfekt: er hat empfohlen"
     }
   },
   {
-    german: "laufen (ein Film im Kino)",
-    english: "to run (a movie in the cinema)",
-    example: "Der Film läuft gerade im Kino.",
-    conjugations: {
-      present: "Präsens: er läuft",
-      past: "Präteritum: er lief",
-      perfect: "Perfekt: er ist gelaufen"
+    "german": "laufen (ein Film im Kino)",
+    "english": "to run (a movie in the cinema)",
+    "example": "Der Film läuft gerade im Kino.",
+    "conjugations": {
+      "present": "Präsens: er läuft",
+      "past": "Präteritum: er lief",
+      "perfect": "Perfekt: er ist gelaufen"
     }
   },
   {
-    german: "liegen (in der Sonne)",
-    english: "to lie (in the sun)",
-    example: "Ich liege in der Sonne.",
-    conjugations: {
-      present: "Präsens: er liegt",
-      past: "Präteritum: er lag",
-      perfect: "Perfekt: er hat gelegen"
+    "german": "liegen (in der Sonne)",
+    "english": "to lie (in the sun)",
+    "example": "Ich liege in der Sonne.",
+    "conjugations": {
+      "present": "Präsens: er liegt",
+      "past": "Präteritum: er lag",
+      "perfect": "Perfekt: er hat gelegen"
     }
   },
   {
-    german: "treiben (Sport)",
-    english: "to do (sports)",
-    example: "Er treibt viel Sport.",
-    conjugations: {
-      present: "Präsens: er treibt",
-      past: "Präteritum: er trieb",
-      perfect: "Perfekt: er hat getrieben"
+    "german": "treiben (Sport)",
+    "english": "to do (sports)",
+    "example": "Er treibt viel Sport.",
+    "conjugations": {
+      "present": "Präsens: er treibt",
+      "past": "Präteritum: er trieb",
+      "perfect": "Perfekt: er hat getrieben"
     }
   },
   {
-    german: "sehen",
-    english: "to see",
-    example: "Ich sehe dich morgen.",
-    conjugations: {
-      present: "Präsens: er sieht",
-      past: "Präteritum: er sah",
-      perfect: "Perfekt: er hat gesehen"
+    "german": "sehen",
+    "english": "to see",
+    "example": "Ich sehe dich morgen.",
+    "conjugations": {
+      "present": "Präsens: er sieht",
+      "past": "Präteritum: er sah",
+      "perfect": "Perfekt: er hat gesehen"
     }
   },
   {
-  german: "wollen",
-  english: "to want",
-  example: "Ich will ein neues Auto.",
-  conjugations: {
-    present: "Präsens: er will",
-    past: "Präteritum: er wollte",
-    perfect: "Perfekt: er hat gewollt"
+  "german": "wollen",
+  "english": "to want",
+  "example": "Ich will ein neues Auto.",
+  "conjugations": {
+    "present": "Präsens: er will",
+    "past": "Präteritum: er wollte",
+    "perfect": "Perfekt: er hat gewollt"
     }
   },
   {
-    german: "ansehen",
-    english: "to look at",
-    example: "Wir sehen uns einen Film an.",
-    conjugations: {
-      present: "Präsens: er sieht an",
-      past: "Präteritum: er sah an",
-      perfect: "Perfekt: er hat angesehen"
+    "german": "ansehen",
+    "english": "to look at",
+    "example": "Wir sehen uns einen Film an.",
+    "conjugations": {
+      "present": "Präsens: er sieht an",
+      "past": "Präteritum: er sah an",
+      "perfect": "Perfekt: er hat angesehen"
     }
   },
   {
-    german: "fernsehen",
-    english: "to watch TV",
-    example: "Ich sehe abends fern.",
-    conjugations: {
-      present: "Präsens: er sieht fern",
-      past: "Präteritum: er sah fern",
-      perfect: "Perfekt: er hat ferngesehen"
+    "german": "fernsehen",
+    "english": "to watch TV",
+    "example": "Ich sehe abends fern.",
+    "conjugations": {
+      "present": "Präsens: er sieht fern",
+      "past": "Präteritum: er sah fern",
+      "perfect": "Perfekt: er hat ferngesehen"
     }
   },
   {
-    german: "sterben",
-    english: "to die",
-    example: "Die Blume stirbt im Winter.",
-    conjugations: {
-      present: "Präsens: er stirbt",
-      past: "Präteritum: er starb",
-      perfect: "Perfekt: er ist gestorben"
+    "german": "sterben",
+    "english": "to die",
+    "example": "Die Blume stirbt im Winter.",
+    "conjugations": {
+      "present": "Präsens: er stirbt",
+      "past": "Präteritum: er starb",
+      "perfect": "Perfekt: er ist gestorben"
     }
   },
   {
-    german: "verbringen (Zeit)",
-    english: "to spend (time)",
-    example: "Ich verbringe viel Zeit mit Freunden.",
-    conjugations: {
-      present: "Präsens: er verbringt",
-      past: "Präteritum: er verbrachte",
-      perfect: "Perfekt: er hat verbracht"
+    "german": "verbringen (Zeit)",
+    "english": "to spend (time)",
+    "example": "Ich verbringe viel Zeit mit Freunden.",
+    "conjugations": {
+      "present": "Präsens: er verbringt",
+      "past": "Präteritum: er verbrachte",
+      "perfect": "Perfekt: er hat verbracht"
     }
   },
   {
-    german: "verlieren (das Interesse)",
-    english: "to lose (interest)",
-    example: "Er verliert schnell das Interesse.",
-    conjugations: {
-      present: "Präsens: er verliert",
-      past: "Präteritum: er verlor",
-      perfect: "Perfekt: er hat verloren"
+    "german": "verlieren (das Interesse)",
+    "english": "to lose (interest)",
+    "example": "Er verliert schnell das Interesse.",
+    "conjugations": {
+      "present": "Präsens: er verliert",
+      "past": "Präteritum: er verlor",
+      "perfect": "Perfekt: er hat verloren"
     }
   },
   {
-    german: "dürfen",
-    english: "to be allowed to",
-    example: "Darf ich gehen?",
-    conjugations: {
-      present: "Präsens: er darf",
-      past: "Präteritum: er durfte",
-      perfect: "Perfekt: er hat gedurft"
+    "german": "dürfen",
+    "english": "to be allowed to",
+    "example": "Darf ich gehen?",
+    "conjugations": {
+      "present": "Präsens: er darf",
+      "past": "Präteritum: er durfte",
+      "perfect": "Perfekt: er hat gedurft"
     }
   },
   {
-    german: "können",
-    english: "to be able to",
-    example: "Ich kann gut schwimmen.",
-    conjugations: {
-      present: "Präsens: er kann",
-      past: "Präteritum: er konnte",
-      perfect: "Perfekt: er hat gekonnt"
+    "german": "können",
+    "english": "to be able to",
+    "example": "Ich kann gut schwimmen.",
+    "conjugations": {
+      "present": "Präsens: er kann",
+      "past": "Präteritum: er konnte",
+      "perfect": "Perfekt: er hat gekonnt"
     }
   },
   {
-    german: "mögen",
-    english: "to like",
-    example: "Ich mag Schokolade.",
-    conjugations: {
-      present: "Präsens: er mag",
-      past: "Präteritum: er mochte",
-      perfect: "Perfekt: er hat gemocht"
+    "german": "mögen",
+    "english": "to like",
+    "example": "Ich mag Schokolade.",
+    "conjugations": {
+      "present": "Präsens: er mag",
+      "past": "Präteritum: er mochte",
+      "perfect": "Perfekt: er hat gemocht"
     }
   },
   {
-    german: "müssen",
-    english: "to have to",
-    example: "Ich muss morgen arbeiten.",
-    conjugations: {
-      present: "Präsens: er muss",
-      past: "Präteritum: er musste",
-      perfect: "Perfekt: er hat gemusst"
+    "german": "müssen",
+    "english": "to have to",
+    "example": "Ich muss morgen arbeiten.",
+    "conjugations": {
+      "present": "Präsens: er muss",
+      "past": "Präteritum: er musste",
+      "perfect": "Perfekt: er hat gemusst"
     }
   },
   {
-    german: "sollen",
-    english: "to be supposed to",
-    example: "Du sollst mehr lernen.",
-    conjugations: {
-      present: "Präsens: er soll",
-      past: "Präteritum: er sollte",
-      perfect: "Perfekt: er hat gesollt"
+    "german": "sollen",
+    "english": "to be supposed to",
+    "example": "Du sollst mehr lernen.",
+    "conjugations": {
+      "present": "Präsens: er soll",
+      "past": "Präteritum: er sollte",
+      "perfect": "Perfekt: er hat gesollt"
     }
   },
   {
-    german: "feiern",
-    english: "to celebrate",
-    example: "Wir feiern meinen Geburtstag.",
-    conjugations: {
-      present: "Präsens: er feiert",
-      past: "Präteritum: er feierte",
-      perfect: "Perfekt: er hat gefeiert"
+    "german": "feiern",
+    "english": "to celebrate",
+    "example": "Wir feiern meinen Geburtstag.",
+    "conjugations": {
+      "present": "Präsens: er feiert",
+      "past": "Präteritum: er feierte",
+      "perfect": "Perfekt: er hat gefeiert"
     }
   },
   {
-    german: "folgen (auf Platz zwei)",
-    english: "to follow (in second place)",
-    example: "Er folgt dem Führenden auf Platz zwei.",
-    conjugations: {
-      present: "Präsens: er folgt",
-      past: "Präteritum: er folgte",
-      perfect: "Perfekt: er ist gefolgt"
+    "german": "folgen (auf Platz zwei)",
+    "english": "to follow (in second place)",
+    "example": "Er folgt dem Führenden auf Platz zwei.",
+    "conjugations": {
+      "present": "Präsens: er folgt",
+      "past": "Präteritum: er folgte",
+      "perfect": "Perfekt: er ist gefolgt"
     }
   },
   {
-    german: "gehören (zu den teuren Städten)",
-    english: "to belong (to the expensive cities)",
-    example: "Diese Städte gehören zu den teuersten der Welt.",
-    conjugations: {
-      present: "Präsens: er gehört",
-      past: "Präteritum: er gehörte",
-      perfect: "Perfekt: er hat gehört"
+    "german": "gehören (zu den teuren Städten)",
+    "english": "to belong (to the expensive cities)",
+    "example": "Diese Städte gehören zu den teuersten der Welt.",
+    "conjugations": {
+      "present": "Präsens: er gehört",
+      "past": "Präteritum: er gehörte",
+      "perfect": "Perfekt: er hat gehört"
     }
   },
   {
-    german: "gründen (eine Firma)",
-    english: "to found (a company)",
-    example: "Er gründet eine neue Firma.",
-    conjugations: {
-      present: "Präsens: er gründet",
-      past: "Präteritum: er gründete",
-      perfect: "Perfekt: er hat gegründet"
+    "german": "gründen (eine Firma)",
+    "english": "to found (a company)",
+    "example": "Er gründet eine neue Firma.",
+    "conjugations": {
+      "present": "Präsens: er gründet",
+      "past": "Präteritum: er gründete",
+      "perfect": "Perfekt: er hat gegründet"
     }
   },
   {
-    german: "kosten",
-    english: "to cost",
-    example: "Das Buch kostet fünf Euro.",
-    conjugations: {
-      present: "Präsens: es kostet",
-      past: "Präteritum: es kostete",
-      perfect: "Perfekt: es hat gekostet"
+    "german": "kosten",
+    "english": "to cost",
+    "example": "Das Buch kostet fünf Euro.",
+    "conjugations": {
+      "present": "Präsens: es kostet",
+      "past": "Präteritum: es kostete",
+      "perfect": "Perfekt: es hat gekostet"
     }
   },
   {
-    german: "nutzen (das Internet)",
-    english: "to use (the internet)",
-    example: "Er nutzt das Internet für seine Recherchen.",
-    conjugations: {
-      present: "Präsens: er nutzt",
-      past: "Präteritum: er nutzte",
-      perfect: "Perfekt: er hat genutzt"
+    "german": "nutzen (das Internet)",
+    "english": "to use (the internet)",
+    "example": "Er nutzt das Internet für seine Recherchen.",
+    "conjugations": {
+      "present": "Präsens: er nutzt",
+      "past": "Präteritum: er nutzte",
+      "perfect": "Perfekt: er hat genutzt"
     }
   },
   {
-    german: "passieren (etwas)",
-    english: "to happen (something)",
-    example: "Es passiert viel in der Stadt.",
-    conjugations: {
-      present: "Präsens: es passiert",
-      past: "Präteritum: es passierte",
-      perfect: "Perfekt: es ist passiert"
+    "german": "passieren (etwas)",
+    "english": "to happen (something)",
+    "example": "Es passiert viel in der Stadt.",
+    "conjugations": {
+      "present": "Präsens: es passiert",
+      "past": "Präteritum: es passierte",
+      "perfect": "Perfekt: es ist passiert"
     }
   },
   {
-    german: "prüfen (die Ware)",
-    english: "to check (the goods)",
-    example: "Er prüft die Ware vor dem Kauf.",
-    conjugations: {
-      present: "Präsens: er prüft",
-      past: "Präteritum: er prüfte",
-      perfect: "Perfekt: er hat geprüft"
+    "german": "prüfen (die Ware)",
+    "english": "to check (the goods)",
+    "example": "Er prüft die Ware vor dem Kauf.",
+    "conjugations": {
+      "present": "Präsens: er prüft",
+      "past": "Präteritum: er prüfte",
+      "perfect": "Perfekt: er hat geprüft"
     }
   },
   {
-    german: "schenken",
-    english: "to give (as a gift)",
-    example: "Er schenkt ihr ein Buch.",
-    conjugations: {
-      present: "Präsens: er schenkt",
-      past: "Präteritum: er schenkte",
-      perfect: "Perfekt: er hat geschenkt"
+    "german": "schenken",
+    "english": "to give (as a gift)",
+    "example": "Er schenkt ihr ein Buch.",
+    "conjugations": {
+      "present": "Präsens: er schenkt",
+      "past": "Präteritum: er schenkte",
+      "perfect": "Perfekt: er hat geschenkt"
     }
   },
   {
-    german: "verschenken",
-    english: "to give away",
-    example: "Er verschenkt alte Spielsachen.",
-    conjugations: {
-      present: "Präsens: er verschenkt",
-      past: "Präteritum: er verschenkte",
-      perfect: "Perfekt: er hat verschenkt"
+    "german": "verschenken",
+    "english": "to give away",
+    "example": "Er verschenkt alte Spielsachen.",
+    "conjugations": {
+      "present": "Präsens: er verschenkt",
+      "past": "Präteritum: er verschenkte",
+      "perfect": "Perfekt: er hat verschenkt"
     }
   },
   {
-    german: "sparen (Geld)",
-    english: "to save (money)",
-    example: "Er spart Geld für den Urlaub.",
-    conjugations: {
-      present: "Präsens: er spart",
-      past: "Präteritum: er sparte",
-      perfect: "Perfekt: er hat gespart"
+    "german": "sparen (Geld)",
+    "english": "to save (money)",
+    "example": "Er spart Geld für den Urlaub.",
+    "conjugations": {
+      "present": "Präsens: er spart",
+      "past": "Präteritum: er sparte",
+      "perfect": "Perfekt: er hat gespart"
     }
   },
   {
-    german: "spenden (Geld)",
-    english: "to donate (money)",
-    example: "Er spendet Geld für die Schule.",
-    conjugations: {
-      present: "Präsens: er spendet",
-      past: "Präteritum: er spendete",
-      perfect: "Perfekt: er hat gespendet"
+    "german": "spenden (Geld)",
+    "english": "to donate (money)",
+    "example": "Er spendet Geld für die Schule.",
+    "conjugations": {
+      "present": "Präsens: er spendet",
+      "past": "Präteritum: er spendete",
+      "perfect": "Perfekt: er hat gespendet"
     }
   },
   {
-    german: "zählen (zu den teuren Städten)",
-    english: "to count (among the expensive cities)",
-    example: "Diese Stadt zählt zu den teuersten.",
-    conjugations: {
-      present: "Präsens: er zählt",
-      past: "Präteritum: er zählte",
-      perfect: "Perfekt: er hat gezählt"
+    "german": "zählen (zu den teuren Städten)",
+    "english": "to count (among the expensive cities)",
+    "example": "Diese Stadt zählt zu den teuersten.",
+    "conjugations": {
+      "present": "Präsens: er zählt",
+      "past": "Präteritum: er zählte",
+      "perfect": "Perfekt: er hat gezählt"
     }
   },
   {
-    german: "anbieten (Produkte)",
-    english: "to offer (products)",
-    example: "Er bietet neue Produkte an.",
-    conjugations: {
-      present: "Präsens: er bietet an",
-      past: "Präteritum: er bot an",
-      perfect: "Perfekt: er hat angeboten"
+    "german": "anbieten (Produkte)",
+    "english": "to offer (products)",
+    "example": "Er bietet neue Produkte an.",
+    "conjugations": {
+      "present": "Präsens: er bietet an",
+      "past": "Präteritum: er bot an",
+      "perfect": "Perfekt: er hat angeboten"
     }
   },
   {
-    german: "annehmen (ein Angebot)",
-    english: "to accept (an offer)",
-    example: "Er nimmt das Angebot an.",
-    conjugations: {
-      present: "Präsens: er nimmt an",
-      past: "Präteritum: er nahm an",
-      perfect: "Perfekt: er hat angenommen"
+    "german": "annehmen (ein Angebot)",
+    "english": "to accept (an offer)",
+    "example": "Er nimmt das Angebot an.",
+    "conjugations": {
+      "present": "Präsens: er nimmt an",
+      "past": "Präteritum: er nahm an",
+      "perfect": "Perfekt: er hat angenommen"
     }
   },
   {
-    german: "aufgeben (eine Bestellung)",
-    english: "to place (an order)",
-    example: "Er gibt die Bestellung auf.",
-    conjugations: {
-      present: "Präsens: er gibt auf",
-      past: "Präteritum: er gab auf",
-      perfect: "Perfekt: er hat aufgegeben"
+    "german": "aufgeben (eine Bestellung)",
+    "english": "to place (an order)",
+    "example": "Er gibt die Bestellung auf.",
+    "conjugations": {
+      "present": "Präsens: er gibt auf",
+      "past": "Präteritum: er gab auf",
+      "perfect": "Perfekt: er hat aufgegeben"
     }
   },
   {
-    german: "bewerben (sich um eine Stelle)",
-    english: "to apply (for a job)",
-    example: "Er bewirbt sich um die Stelle.",
-    conjugations: {
-      present: "Präsens: er bewirbt sich",
-      past: "Präteritum: er bewarb sich",
-      perfect: "Perfekt: er hat sich beworben"
+    "german": "bewerben (sich um eine Stelle)",
+    "english": "to apply (for a job)",
+    "example": "Er bewirbt sich um die Stelle.",
+    "conjugations": {
+      "present": "Präsens: er bewirbt sich",
+      "past": "Präteritum: er bewarb sich",
+      "perfect": "Perfekt: er hat sich beworben"
     }
   },
   {
-    german: "sitzen",
-    english: "to sit",
-    example: "Er sitzt auf dem Stuhl.",
-    conjugations: {
-      present: "Präsens: er sitzt",
-      past: "Präteritum: er saß",
-      perfect: "Perfekt: er hat gesessen"
+    "german": "sitzen",
+    "english": "to sit",
+    "example": "Er sitzt auf dem Stuhl.",
+    "conjugations": {
+      "present": "Präsens: er sitzt",
+      "past": "Präteritum: er saß",
+      "perfect": "Perfekt: er hat gesessen"
     }
   },
   {
-    german: "teilnehmen (an)",
-    english: "to participate (in)",
-    example: "Er nimmt an dem Wettbewerb teil.",
-    conjugations: {
-      present: "Präsens: er nimmt teil",
-      past: "Präteritum: er nahm teil",
-      perfect: "Perfekt: er hat teilgenommen"
+    "german": "teilnehmen (an)",
+    "english": "to participate (in)",
+    "example": "Er nimmt an dem Wettbewerb teil.",
+    "conjugations": {
+      "present": "Präsens: er nimmt teil",
+      "past": "Präteritum: er nahm teil",
+      "perfect": "Perfekt: er hat teilgenommen"
     }
   },
   {
-    german: "verbinden (jemanden)",
-    english: "to connect (someone)",
-    example: "Er verbindet dich mit dem Kundenservice.",
-    conjugations: {
-      present: "Präsens: er verbindet",
-      past: "Präteritum: er verband",
-      perfect: "Perfekt: er hat verbunden"
+    "german": "verbinden (jemanden)",
+    "english": "to connect (someone)",
+    "example": "Er verbindet dich mit dem Kundenservice.",
+    "conjugations": {
+      "present": "Präsens: er verbindet",
+      "past": "Präteritum: er verband",
+      "perfect": "Perfekt: er hat verbunden"
     }
   },
   {
-    german: "wissen",
-    english: "to know",
-    example: "Er weiß die Antwort.",
-    conjugations: {
-      present: "Präsens: er weiß",
-      past: "Präteritum: er wusste",
-      perfect: "Perfekt: er hat gewusst"
+    "german": "wissen",
+    "english": "to know",
+    "example": "Er weiß die Antwort.",
+    "conjugations": {
+      "present": "Präsens: er weiß",
+      "past": "Präteritum: er wusste",
+      "perfect": "Perfekt: er hat gewusst"
     }
   },
   {
-    german: "ablehnen (ein Angebot)",
-    english: "to decline (an offer)",
-    example: "Er lehnt das Angebot ab.",
-    conjugations: {
-      present: "Präsens: er lehnt ab",
-      past: "Präteritum: er lehnte ab",
-      perfect: "Perfekt: er hat abgelehnt"
+    "german": "ablehnen (ein Angebot)",
+    "english": "to decline (an offer)",
+    "example": "Er lehnt das Angebot ab.",
+    "conjugations": {
+      "present": "Präsens: er lehnt ab",
+      "past": "Präteritum: er lehnte ab",
+      "perfect": "Perfekt: er hat abgelehnt"
     }
   },
   {
-    german: "beantworten (eine E-Mail)",
-    english: "to answer (an email)",
-    example: "Er beantwortet die E-Mail.",
-    conjugations: {
-      present: "Präsens: er beantwortet",
-      past: "Präteritum: er beantwortete",
-      perfect: "Perfekt: er hat beantwortet"
+    "german": "beantworten (eine E-Mail)",
+    "english": "to answer (an email)",
+    "example": "Er beantwortet die E-Mail.",
+    "conjugations": {
+      "present": "Präsens: er beantwortet",
+      "past": "Präteritum: er beantwortete",
+      "perfect": "Perfekt: er hat beantwortet"
     }
   },
   {
-    german: "beenden",
-    english: "to finish",
-    example: "Er beendet die Arbeit.",
-    conjugations: {
-      present: "Präsens: er beendet",
-      past: "Präteritum: er beendete",
-      perfect: "Perfekt: er hat beendet"
+    "german": "beenden",
+    "english": "to finish",
+    "example": "Er beendet die Arbeit.",
+    "conjugations": {
+      "present": "Präsens: er beendet",
+      "past": "Präteritum: er beendete",
+      "perfect": "Perfekt: er hat beendet"
     }
   },
   {
-    german: "buchstabieren (den Namen)",
-    english: "to spell (the name)",
-    example: "Er buchstabiert seinen Namen.",
-    conjugations: {
-      present: "Präsens: er buchstabiert",
-      past: "Präteritum: er buchstabierte",
-      perfect: "Perfekt: er hat buchstabiert"
+    "german": "buchstabieren (den Namen)",
+    "english": "to spell (the name)",
+    "example": "Er buchstabiert seinen Namen.",
+    "conjugations": {
+      "present": "Präsens: er buchstabiert",
+      "past": "Präteritum: er buchstabierte",
+      "perfect": "Perfekt: er hat buchstabiert"
     }
   },
   {
-    german: "erwarten (jemanden/ etwas)",
-    english: "to expect (someone/ something)",
-    example: "Er erwartet seinen Freund.",
-    conjugations: {
-      present: "Präsens: er erwartet",
-      past: "Präteritum: er erwartete",
-      perfect: "Perfekt: er hat erwartet"
+    "german": "erwarten (jemanden/ etwas)",
+    "english": "to expect (someone/ something)",
+    "example": "Er erwartet seinen Freund.",
+    "conjugations": {
+      "present": "Präsens: er erwartet",
+      "past": "Präteritum: er erwartete",
+      "perfect": "Perfekt: er hat erwartet"
     }
   },
   {
-    german: "kündigen",
-    english: "to resign",
-    example: "Er kündigt seinen Job.",
-    conjugations: {
-      present: "Präsens: er kündigt",
-      past: "Präteritum: er kündigte",
-      perfect: "Perfekt: er hat gekündigt"
+    "german": "kündigen",
+    "english": "to resign",
+    "example": "Er kündigt seinen Job.",
+    "conjugations": {
+      "present": "Präsens: er kündigt",
+      "past": "Präteritum: er kündigte",
+      "perfect": "Perfekt: er hat gekündigt"
     }
   },
   {
-    german: "liefern (Produkte)",
-    english: "to deliver (products)",
-    example: "Er liefert die Produkte pünktlich.",
-    conjugations: {
-      present: "Präsens: er liefert",
-      past: "Präteritum: er lieferte",
-      perfect: "Perfekt: er hat geliefert"
+    "german": "liefern (Produkte)",
+    "english": "to deliver (products)",
+    "example": "Er liefert die Produkte pünktlich.",
+    "conjugations": {
+      "present": "Präsens: er liefert",
+      "past": "Präteritum: er lieferte",
+      "perfect": "Perfekt: er hat geliefert"
     }
   },
   {
-    german: "passen (es passt mir)",
-    english: "to fit (it fits me)",
-    example: "Das Hemd passt mir gut.",
-    conjugations: {
-      present: "Präsens: es passt",
-      past: "Präteritum: es passte",
-      perfect: "Perfekt: es hat gepasst"
+    "german": "passen (es passt mir)",
+    "english": "to fit (it fits me)",
+    "example": "Das Hemd passt mir gut.",
+    "conjugations": {
+      "present": "Präsens: es passt",
+      "past": "Präteritum: es passte",
+      "perfect": "Perfekt: es hat gepasst"
     }
   },
   {
-    german: "präsentieren (ein Produkt)",
-    english: "to present (a product)",
-    example: "Er präsentiert das neue Produkt.",
-    conjugations: {
-      present: "Präsens: er präsentiert",
-      past: "Präteritum: er präsentierte",
-      perfect: "Perfekt: er hat präsentiert"
+    "german": "präsentieren (ein Produkt)",
+    "english": "to "present" (a product)",
+    "example": "Er präsentiert das neue Produkt.",
+    "conjugations": {
+      "present": "Präsens: er präsentiert",
+      "past": "Präteritum: er präsentierte",
+      "perfect": "Perfekt: er hat präsentiert"
     }
   },
   {
-    german: "reden (über etwas)",
-    english: "to talk (about something)",
-    example: "Er redet über seine Pläne.",
-    conjugations: {
-      present: "Präsens: er redet",
-      past: "Präteritum: er redete",
-      perfect: "Perfekt: er hat geredet"
+    "german": "reden (über etwas)",
+    "english": "to talk (about something)",
+    "example": "Er redet über seine Pläne.",
+    "conjugations": {
+      "present": "Präsens: er redet",
+      "past": "Präteritum: er redete",
+      "perfect": "Perfekt: er hat geredet"
     }
   },
   {
-    german: "sagen (jemandem etwas)",
-    english: "to say (something to someone)",
-    example: "Er sagt ihr die Wahrheit.",
-    conjugations: {
-      present: "Präsens: er sagt",
-      past: "Präteritum: er sagte",
-      perfect: "Perfekt: er hat gesagt"
+    "german": "sagen (jemandem etwas)",
+    "english": "to say (something to someone)",
+    "example": "Er sagt ihr die Wahrheit.",
+    "conjugations": {
+      "present": "Präsens: er sagt",
+      "past": "Präteritum: er sagte",
+      "perfect": "Perfekt: er hat gesagt"
     }
   },
   {
-    german: "senden (eine E-Mail)",
-    english: "to send (an email)",
-    example: "Er sendet die E-Mail.",
-    conjugations: {
-      present: "Präsens: er sendet",
-      past: "Präteritum: er sandte",
-      perfect: "Perfekt: er hat gesendet"
+    "german": "senden (eine E-Mail)",
+    "english": "to send (an email)",
+    "example": "Er sendet die E-Mail.",
+    "conjugations": {
+      "present": "Präsens: er sendet",
+      "past": "Präteritum: er sandte",
+      "perfect": "Perfekt: er hat gesendet"
     }
   },
   {
-    german: "verabschieden (sich)",
-    english: "to say goodbye (to)",
-    example: "Er verabschiedet sich von seinen Freunden.",
-    conjugations: {
-      present: "Präsens: er verabschiedet sich",
-      past: "Präteritum: er verabschiedete sich",
-      perfect: "Perfekt: er hat sich verabschiedet"
+    "german": "verabschieden (sich)",
+    "english": "to say goodbye (to)",
+    "example": "Er verabschiedet sich von seinen Freunden.",
+    "conjugations": {
+      "present": "Präsens: er verabschiedet sich",
+      "past": "Präteritum: er verabschiedete sich",
+      "perfect": "Perfekt: er hat sich verabschiedet"
     }
   },
   {
-    german: "vereinbaren (einen Termin)",
-    english: "to arrange (an appointment)",
-    example: "Er vereinbart einen Termin.",
-    conjugations: {
-      present: "Präsens: er vereinbart",
-      past: "Präteritum: er vereinbarte",
-      perfect: "Perfekt: er hat vereinbart"
+    "german": "vereinbaren (einen Termin)",
+    "english": "to arrange (an appointment)",
+    "example": "Er vereinbart einen Termin.",
+    "conjugations": {
+      "present": "Präsens: er vereinbart",
+      "past": "Präteritum: er vereinbarte",
+      "perfect": "Perfekt: er hat vereinbart"
     }
   },
   {
-    german: "vorstellen (ein Produkt)",
-    english: "to introduce (a product)",
-    example: "Er stellt das neue Produkt vor.",
-    conjugations: {
-      present: "Präsens: er stellt vor",
-      past: "Präteritum: er stellte vor",
-      perfect: "Perfekt: er hat vorgestellt"
+    "german": "vorstellen (ein Produkt)",
+    "english": "to introduce (a product)",
+    "example": "Er stellt das neue Produkt vor.",
+    "conjugations": {
+      "present": "Präsens: er stellt vor",
+      "past": "Präteritum: er stellte vor",
+      "perfect": "Perfekt: er hat vorgestellt"
     }
   },
   {
-    german: "warten",
-    english: "to wait",
-    example: "Er wartet auf den Bus.",
-    conjugations: {
-      present: "Präsens: er wartet",
-      past: "Präteritum: er wartete",
-      perfect: "Perfekt: er hat gewartet"
+    "german": "warten",
+    "english": "to wait",
+    "example": "Er wartet auf den Bus.",
+    "conjugations": {
+      "present": "Präsens: er wartet",
+      "past": "Präteritum: er wartete",
+      "perfect": "Perfekt: er hat gewartet"
     }
   },
   {
-    german: "weiterleiten (eine E-Mail)",
-    english: "to forward (an email)",
-    example: "Er leitet die E-Mail weiter.",
-    conjugations: {
-      present: "Präsens: er leitet weiter",
-      past: "Präteritum: er leitete weiter",
-      perfect: "Perfekt: er hat weitergeleitet"
+    "german": "weiterleiten (eine E-Mail)",
+    "english": "to forward (an email)",
+    "example": "Er leitet die E-Mail weiter.",
+    "conjugations": {
+      "present": "Präsens: er leitet weiter",
+      "past": "Präteritum: er leitete weiter",
+      "perfect": "Perfekt: er hat weitergeleitet"
     }
   },
   {
-    german: "zustimmen",
-    english: "to agree",
-    example: "Er stimmt dem Vorschlag zu.",
-    conjugations: {
-      present: "Präsens: er stimmt zu",
-      past: "Präteritum: er stimmte zu",
-      perfect: "Perfekt: er hat zugestimmt"
+    "german": "zustimmen",
+    "english": "to agree",
+    "example": "Er stimmt dem Vorschlag zu.",
+    "conjugations": {
+      "present": "Präsens: er stimmt zu",
+      "past": "Präteritum: er stimmte zu",
+      "perfect": "Perfekt: er hat zugestimmt"
     }
   },
   {
-    german: "abheben (Geld)",
-    english: "to withdraw (money)",
-    example: "Er hebt Geld vom Konto ab.",
-    conjugations: {
-      present: "Präsens: er hebt ab",
-      past: "Präteritum: er hob ab",
-      perfect: "Perfekt: er hat abgehoben"
+    "german": "abheben (Geld)",
+    "english": "to withdraw (money)",
+    "example": "Er hebt Geld vom Konto ab.",
+    "conjugations": {
+      "present": "Präsens: er hebt ab",
+      "past": "Präteritum: er hob ab",
+      "perfect": "Perfekt: er hat abgehoben"
     }
   },
   {
-    german: "betragen (der Gewinn)",
-    english: "to amount to (the profit)",
-    example: "Der Gewinn beträgt 100 Euro.",
-    conjugations: {
-      present: "Präsens: er beträgt",
-      past: "Präteritum: er betrug",
-      perfect: "Perfekt: er hat betragen"
+    "german": "betragen (der Gewinn)",
+    "english": "to amount to (the profit)",
+    "example": "Der Gewinn beträgt 100 Euro.",
+    "conjugations": {
+      "present": "Präsens: er beträgt",
+      "past": "Präteritum: er betrug",
+      "perfect": "Perfekt: er hat betragen"
     }
   },
   {
-    german: "entscheiden (sich für etwas)",
-    english: "to decide (on something)",
-    example: "Er entscheidet sich für das blaue Hemd.",
-    conjugations: {
-      present: "Präsens: er entscheidet sich",
-      past: "Präteritum: er entschied sich",
-      perfect: "Perfekt: er hat sich entschieden"
+    "german": "entscheiden (sich für etwas)",
+    "english": "to decide (on something)",
+    "example": "Er entscheidet sich für das blaue Hemd.",
+    "conjugations": {
+      "present": "Präsens: er entscheidet sich",
+      "past": "Präteritum: er entschied sich",
+      "perfect": "Perfekt: er hat sich entschieden"
     }
   },
   {
-    german: "gelten (als geizig)",
-    english: "to be considered (as stingy)",
-    example: "Er gilt als geizig.",
-    conjugations: {
-      present: "Präsens: er gilt",
-      past: "Präteritum: er galt",
-      perfect: "Perfekt: er hat gegolten"
+    "german": "gelten (als geizig)",
+    "english": "to be considered (as stingy)",
+    "example": "Er gilt als geizig.",
+    "conjugations": {
+      "present": "Präsens: er gilt",
+      "past": "Präteritum: er galt",
+      "perfect": "Perfekt: er hat gegolten"
     }
   },
   {
-    german: "nennen",
-    english: "to name, to call",
-    example: "Er nennt das Baby Max.",
-    conjugations: {
-      present: "Präsens: er nennt",
-      past: "Präteritum: er nannte",
-      perfect: "Perfekt: er hat genannt"
+    "german": "nennen",
+    "english": "to name, to call",
+    "example": "Er nennt das Baby Max.",
+    "conjugations": {
+      "present": "Präsens: er nennt",
+      "past": "Präteritum: er nannte",
+      "perfect": "Perfekt: er hat genannt"
     }
   },
   {
-    german: "tun",
-    english: "to do",
-    example: "Er tut alles für seine Familie.",
-    conjugations: {
-      present: "Präsens: er tut",
-      past: "Präteritum: er tat",
-      perfect: "Perfekt: er hat getan"
+    "german": "tun",
+    "english": "to do",
+    "example": "Er tut alles für seine Familie.",
+    "conjugations": {
+      "present": "Präsens: er tut",
+      "past": "Präteritum: er tat",
+      "perfect": "Perfekt: er hat getan"
     }
   },
   {
-    german: "verbieten",
-    english: "to forbid",
-    example: "Er verbietet das Rauchen im Haus.",
-    conjugations: {
-      present: "Präsens: er verbietet",
-      past: "Präteritum: er verbot",
-      perfect: "Perfekt: er hat verboten"
+    "german": "verbieten",
+    "english": "to forbid",
+    "example": "Er verbietet das Rauchen im Haus.",
+    "conjugations": {
+      "present": "Präsens: er verbietet",
+      "past": "Präteritum: er verbot",
+      "perfect": "Perfekt: er hat verboten"
     }
   },
   {
-    german: "vergleichen (Preise)",
-    english: "to compare (prices)",
-    example: "Er vergleicht die Preise im Supermarkt.",
-    conjugations: {
-      present: "Präsens: er vergleicht",
-      past: "Präteritum: er verglich",
-      perfect: "Perfekt: er hat verglichen"
+    "german": "vergleichen (Preise)",
+    "english": "to compare (prices)",
+    "example": "Er vergleicht die Preise im Supermarkt.",
+    "conjugations": {
+      "present": "Präsens: er vergleicht",
+      "past": "Präteritum: er verglich",
+      "perfect": "Perfekt: er hat verglichen"
     }
   },
   {
-    german: "ändern (sich/die Zeit)",
-    english: "to change (oneself/the time)",
-    example: "Die Zeit ändert sich schnell.",
-    conjugations: {
-      present: "Präsens: er ändert",
-      past: "Präteritum: er änderte",
-      perfect: "Perfekt: er hat geändert"
+    "german": "ändern (sich/die Zeit)",
+    "english": "to change (oneself/the time)",
+    "example": "Die Zeit ändert sich schnell.",
+    "conjugations": {
+      "present": "Präsens: er ändert",
+      "past": "Präteritum: er änderte",
+      "perfect": "Perfekt: er hat geändert"
     }
   },
   {
-    german: "anprobieren (die Schuhe)",
-    english: "to try on (the shoes)",
-    example: "Er probiert die neuen Schuhe an.",
-    conjugations: {
-      present: "Präsens: er probiert an",
-      past: "Präteritum: er probierte an",
-      perfect: "Perfekt: er hat anprobiert"
+    "german": "anprobieren (die Schuhe)",
+    "english": "to try on (the shoes)",
+    "example": "Er probiert die neuen Schuhe an.",
+    "conjugations": {
+      "present": "Präsens: er probiert an",
+      "past": "Präteritum: er probierte an",
+      "perfect": "Perfekt: er hat anprobiert"
     }
   },
   {
-    german: "ausfüllen (ein Formular)",
-    english: "to fill out (a form)",
-    example: "Er füllt das Formular aus.",
-    conjugations: {
-      present: "Präsens: er füllt aus",
-      past: "Präteritum: er füllte aus",
-      perfect: "Perfekt: er hat ausgefüllt"
+    "german": "ausfüllen (ein Formular)",
+    "english": "to fill out (a form)",
+    "example": "Er füllt das Formular aus.",
+    "conjugations": {
+      "present": "Präsens: er füllt aus",
+      "past": "Präteritum: er füllte aus",
+      "perfect": "Perfekt: er hat ausgefüllt"
     }
   },
   {
-    german: "belegen (einen Platz)",
-    english: "to occupy (a place)",
-    example: "Er belegt den ersten Platz im Wettbewerb.",
-    conjugations: {
-      present: "Präsens: er belegt",
-      past: "Präteritum: er belegte",
-      perfect: "Perfekt: er hat belegt"
+    "german": "belegen (einen Platz)",
+    "english": "to occupy (a place)",
+    "example": "Er belegt den ersten Platz im Wettbewerb.",
+    "conjugations": {
+      "present": "Präsens: er belegt",
+      "past": "Präteritum: er belegte",
+      "perfect": "Perfekt: er hat belegt"
     }
   },
   {
-    german: "bestellen (ein Produkt)",
-    english: "to order (a product)",
-    example: "Er bestellt ein neues Handy.",
-    conjugations: {
-      present: "Präsens: er bestellt",
-      past: "Präteritum: er bestellte",
-      perfect: "Perfekt: er hat bestellt"
+    "german": "bestellen (ein Produkt)",
+    "english": "to order (a product)",
+    "example": "Er bestellt ein neues Handy.",
+    "conjugations": {
+      "present": "Präsens: er bestellt",
+      "past": "Präteritum: er bestellte",
+      "perfect": "Perfekt: er hat bestellt"
     }
   },
   {
-    german: "einzahlen (Geld)",
-    english: "to deposit (money)",
-    example: "Er zahlt das Geld auf sein Konto ein.",
-    conjugations: {
-      present: "Präsens: er zahlt ein",
-      past: "Präteritum: er zahlte ein",
-      perfect: "Perfekt: er hat eingezahlt"
+    "german": "einzahlen (Geld)",
+    "english": "to deposit (money)",
+    "example": "Er zahlt das Geld auf sein Konto ein.",
+    "conjugations": {
+      "present": "Präsens: er zahlt ein",
+      "past": "Präteritum: er zahlte ein",
+      "perfect": "Perfekt: er hat eingezahlt"
     }
   },
   {
-    german: "erleben (etwas)",
-    english: "to experience (something)",
-    example: "Er erlebt ein aufregendes Abenteuer.",
-    conjugations: {
-      present: "Präsens: er erlebt",
-      past: "Präteritum: er erlebte",
-      perfect: "Perfekt: er hat erlebt"
+    "german": "erleben (etwas)",
+    "english": "to experience (something)",
+    "example": "Er erlebt ein aufregendes Abenteuer.",
+    "conjugations": {
+      "present": "Präsens: er erlebt",
+      "past": "Präteritum: er erlebte",
+      "perfect": "Perfekt: er hat erlebt"
     }
   },
   {
-    german: "ersteigern (ein Bild)",
-    english: "to buy at auction (a painting)",
-    example: "Er ersteigert ein wertvolles Bild.",
-    conjugations: {
-      present: "Präsens: er ersteigert",
-      past: "Präteritum: er ersteigerte",
-      perfect: "Perfekt: er hat ersteigert"
+    "german": "ersteigern (ein Bild)",
+    "english": "to buy at auction (a painting)",
+    "example": "Er ersteigert ein wertvolles Bild.",
+    "conjugations": {
+      "present": "Präsens: er ersteigert",
+      "past": "Präteritum: er ersteigerte",
+      "perfect": "Perfekt: er hat ersteigert"
     }
   },
   {
-    german: "sich anziehen",
-    english: "to get dressed",
-    example: "Er zieht sich an.",
-    conjugations: {
-      present: "Präsens: er zieht sich an",
-      past: "Präteritum: er zog sich an",
-      perfect: "Perfekt: er hat sich angezogen"
+    "german": "sich anziehen",
+    "english": "to get dressed",
+    "example": "Er zieht sich an.",
+    "conjugations": {
+      "present": "Präsens: er zieht sich an",
+      "past": "Präteritum: er zog sich an",
+      "perfect": "Perfekt: er hat sich angezogen"
     }
   },
   {
-    german: "sich ärgern",
-    english: "to get annoyed",
-    example: "Er ärgert sich über den Lärm.",
-    conjugations: {
-      present: "Präsens: er ärgert sich",
-      past: "Präteritum: er ärgerte sich",
-      perfect: "Perfekt: er hat sich geärgert"
+    "german": "sich ärgern",
+    "english": "to get annoyed",
+    "example": "Er ärgert sich über den Lärm.",
+    "conjugations": {
+      "present": "Präsens: er ärgert sich",
+      "past": "Präteritum: er ärgerte sich",
+      "perfect": "Perfekt: er hat sich geärgert"
     }
   },
   {
-    german: "sich bedanken",
-    english: "to thank",
-    example: "Sie bedankt sich bei ihm.",
-    conjugations: {
-      present: "Präsens: er bedankt sich",
-      past: "Präteritum: er bedankte sich",
-      perfect: "Perfekt: er hat sich bedankt"
+    "german": "sich bedanken",
+    "english": "to thank",
+    "example": "Sie bedankt sich bei ihm.",
+    "conjugations": {
+      "present": "Präsens: er bedankt sich",
+      "past": "Präteritum: er bedankte sich",
+      "perfect": "Perfekt: er hat sich bedankt"
     }
   },
   {
-    german: "sich befinden",
-    english: "to be located",
-    example: "Er befindet sich im Zentrum.",
-    conjugations: {
-      present: "Präsens: er befindet sich",
-      past: "Präteritum: er befand sich",
-      perfect: "Perfekt: er hat sich befunden"
+    "german": "sich befinden",
+    "english": "to be located",
+    "example": "Er befindet sich im Zentrum.",
+    "conjugations": {
+      "present": "Präsens: er befindet sich",
+      "past": "Präteritum: er befand sich",
+      "perfect": "Perfekt: er hat sich befunden"
     }
   },
   {
-    german: "sich beschweren",
-    english: "to complain",
-    example: "Sie beschwert sich über das Essen.",
-    conjugations: {
-      present: "Präsens: er beschwert sich",
-      past: "Präteritum: er beschwerte sich",
-      perfect: "Perfekt: er hat sich beschwert"
+    "german": "sich beschweren",
+    "english": "to complain",
+    "example": "Sie beschwert sich über das Essen.",
+    "conjugations": {
+      "present": "Präsens: er beschwert sich",
+      "past": "Präteritum: er beschwerte sich",
+      "perfect": "Perfekt: er hat sich beschwert"
     }
   },
   {
-    german: "sich beeilen",
-    english: "to hurry",
-    example: "Er beeilt sich zur Arbeit.",
-    conjugations: {
-      present: "Präsens: er beeilt sich",
-      past: "Präteritum: er beeilte sich",
-      perfect: "Perfekt: er hat sich beeilt"
+    "german": "sich beeilen",
+    "english": "to hurry",
+    "example": "Er beeilt sich zur Arbeit.",
+    "conjugations": {
+      "present": "Präsens: er beeilt sich",
+      "past": "Präteritum: er beeilte sich",
+      "perfect": "Perfekt: er hat sich beeilt"
     }
   },
   {
-    german: "sich duschen",
-    english: "to take a shower",
-    example: "Er duscht sich morgens.",
-    conjugations: {
-      present: "Präsens: er duscht sich",
-      past: "Präteritum: er duschte sich",
-      perfect: "Perfekt: er hat sich geduscht"
+    "german": "sich duschen",
+    "english": "to take a shower",
+    "example": "Er duscht sich morgens.",
+    "conjugations": {
+      "present": "Präsens: er duscht sich",
+      "past": "Präteritum: er duschte sich",
+      "perfect": "Perfekt: er hat sich geduscht"
     }
   },
   {
-    german: "sich erinnern",
-    english: "to remember",
-    example: "Sie erinnert sich an die Reise.",
-    conjugations: {
-      present: "Präsens: er erinnert sich",
-      past: "Präteritum: er erinnerte sich",
-      perfect: "Perfekt: er hat sich erinnert"
+    "german": "sich erinnern",
+    "english": "to remember",
+    "example": "Sie erinnert sich an die Reise.",
+    "conjugations": {
+      "present": "Präsens: er erinnert sich",
+      "past": "Präteritum: er erinnerte sich",
+      "perfect": "Perfekt: er hat sich erinnert"
     }
   },
   {
-    german: "sich erkälten",
-    english: "to catch a cold",
-    example: "Er erkältet sich im Winter.",
-    conjugations: {
-      present: "Präsens: er erkältet sich",
-      past: "Präteritum: er erkältete sich",
-      perfect: "Perfekt: er hat sich erkältet"
+    "german": "sich erkälten",
+    "english": "to catch a cold",
+    "example": "Er erkältet sich im Winter.",
+    "conjugations": {
+      "present": "Präsens: er erkältet sich",
+      "past": "Präteritum: er erkältete sich",
+      "perfect": "Perfekt: er hat sich erkältet"
     }
   },
   {
-    german: "sich föhnen",
-    english: "to blow-dry",
-    example: "Er föhnt sich die Haare.",
-    conjugations: {
-      present: "Präsens: er föhnt sich",
-      past: "Präteritum: er föhnte sich",
-      perfect: "Perfekt: er hat sich geföhnt"
+    "german": "sich föhnen",
+    "english": "to blow-dry",
+    "example": "Er föhnt sich die Haare.",
+    "conjugations": {
+      "present": "Präsens: er föhnt sich",
+      "past": "Präteritum: er föhnte sich",
+      "perfect": "Perfekt: er hat sich geföhnt"
     }
   },
   {
-    german: "sich interessieren",
-    english: "to be interested",
-    example: "Sie interessiert sich für Musik.",
-    conjugations: {
-      present: "Präsens: er interessiert sich",
-      past: "Präteritum: er interessierte sich",
-      perfect: "Perfekt: er hat sich interessiert"
+    "german": "sich interessieren",
+    "english": "to be interested",
+    "example": "Sie interessiert sich für Musik.",
+    "conjugations": {
+      "present": "Präsens: er interessiert sich",
+      "past": "Präteritum: er interessierte sich",
+      "perfect": "Perfekt: er hat sich interessiert"
     }
   },
   {
-    german: "sich kämmen",
-    english: "to comb",
-    example: "Er kämmt sich die Haare.",
-    conjugations: {
-      present: "Präsens: er kämmt sich",
-      past: "Präteritum: er kämmte sich",
-      perfect: "Perfekt: er hat sich gekämmt"
+    "german": "sich kämmen",
+    "english": "to comb",
+    "example": "Er kämmt sich die Haare.",
+    "conjugations": {
+      "present": "Präsens: er kämmt sich",
+      "past": "Präteritum: er kämmte sich",
+      "perfect": "Perfekt: er hat sich gekämmt"
     }
   },
   {
-    german: "sich schminken",
-    english: "to put on makeup",
-    example: "Sie schminkt sich vor dem Spiegel.",
-    conjugations: {
-      present: "Präsens: er schminkt sich",
-      past: "Präteritum: er schminkte sich",
-      perfect: "Perfekt: er hat sich geschminkt"
+    "german": "sich schminken",
+    "english": "to put on makeup",
+    "example": "Sie schminkt sich vor dem Spiegel.",
+    "conjugations": {
+      "present": "Präsens: er schminkt sich",
+      "past": "Präteritum: er schminkte sich",
+      "perfect": "Perfekt: er hat sich geschminkt"
     }
   },
   {
-    german: "sich streiten",
-    english: "to argue",
-    example: "Sie streiten sich oft.",
-    conjugations: {
-      present: "Präsens: er streitet sich",
-      past: "Präteritum: er stritt sich",
-      perfect: "Perfekt: er hat sich gestritten"
+    "german": "sich streiten",
+    "english": "to argue",
+    "example": "Sie streiten sich oft.",
+    "conjugations": {
+      "present": "Präsens: er streitet sich",
+      "past": "Präteritum: er stritt sich",
+      "perfect": "Perfekt: er hat sich gestritten"
     }
   },
   {
-    german: "sich treffen",
-    english: "to meet",
-    example: "Er trifft sich mit Freunden.",
-    conjugations: {
-      present: "Präsens: er trifft sich",
-      past: "Präteritum: er traf sich",
-      perfect: "Perfekt: er hat sich getroffen"
+    "german": "sich treffen",
+    "english": "to meet",
+    "example": "Er trifft sich mit Freunden.",
+    "conjugations": {
+      "present": "Präsens: er trifft sich",
+      "past": "Präteritum: er traf sich",
+      "perfect": "Perfekt: er hat sich getroffen"
     }
   },
   {
-    german: "sich umziehen",
-    english: "to move (to another city)",
-    example: "Sie zieht sich um.",
-    conjugations: {
-      present: "Präsens: er zieht sich um",
-      past: "Präteritum: er zog sich um",
-      perfect: "Perfekt: er hat sich umgezogen"
+    "german": "sich umziehen",
+    "english": "to move (to another city)",
+    "example": "Sie zieht sich um.",
+    "conjugations": {
+      "present": "Präsens: er zieht sich um",
+      "past": "Präteritum: er zog sich um",
+      "perfect": "Perfekt: er hat sich umgezogen"
     }
   },
   {
-    german: "sich unterhalten",
-    english: "to have a conversation",
-    example: "Er unterhält sich mit ihr.",
-    conjugations: {
-      present: "Präsens: er unterhält sich",
-      past: "Präteritum: er unterhielt sich",
-      perfect: "Perfekt: er hat sich unterhalten"
+    "german": "sich unterhalten",
+    "english": "to have a conversation",
+    "example": "Er unterhält sich mit ihr.",
+    "conjugations": {
+      "present": "Präsens: er unterhält sich",
+      "past": "Präteritum: er unterhielt sich",
+      "perfect": "Perfekt: er hat sich unterhalten"
     }
   },
   {
-    german: "sich verlieben",
-    english: "to fall in love",
-    example: "Er verliebt sich in sie.",
-    conjugations: {
-      present: "Präsens: er verliebt sich",
-      past: "Präteritum: er verliebte sich",
-      perfect: "Perfekt: er hat sich verliebt"
+    "german": "sich verlieben",
+    "english": "to fall in love",
+    "example": "Er verliebt sich in sie.",
+    "conjugations": {
+      "present": "Präsens: er verliebt sich",
+      "past": "Präteritum: er verliebte sich",
+      "perfect": "Perfekt: er hat sich verliebt"
     }
   },
   {
-    german: "sich vorstellen",
-    english: "to introduce oneself",
-    example: "Er stellt sich vor.",
-    conjugations: {
-      present: "Präsens: er stellt sich vor",
-      past: "Präteritum: er stellte sich vor",
-      perfect: "Perfekt: er hat sich vorgestellt"
+    "german": "sich vorstellen",
+    "english": "to introduce oneself",
+    "example": "Er stellt sich vor.",
+    "conjugations": {
+      "present": "Präsens: er stellt sich vor",
+      "past": "Präteritum: er stellte sich vor",
+      "perfect": "Perfekt: er hat sich vorgestellt"
     }
   },
   {
-    german: "abschließen",
-    english: "to complete (a degree)",
-    example: "Er schließt sein Studium ab.",
-    conjugations: {
-      present: "Präsens: er schließt ab",
-      past: "Präteritum: er schloss ab",
-      perfect: "Perfekt: er hat abgeschlossen"
+    "german": "abschließen",
+    "english": "to complete (a degree)",
+    "example": "Er schließt sein Studium ab.",
+    "conjugations": {
+      "present": "Präsens: er schließt ab",
+      "past": "Präteritum: er schloss ab",
+      "perfect": "Perfekt: er hat abgeschlossen"
     }
   },
   {
-    german: "anfangen",
-    english: "to start",
-    example: "Sie fängt das Projekt an.",
-    conjugations: {
-      present: "Präsens: er fängt an",
-      past: "Präteritum: er fing an",
-      perfect: "Perfekt: er hat angefangen"
+    "german": "anfangen",
+    "english": "to start",
+    "example": "Sie fängt das Projekt an.",
+    "conjugations": {
+      "present": "Präsens: er fängt an",
+      "past": "Präteritum: er fing an",
+      "perfect": "Perfekt: er hat angefangen"
     }
   },
   {
-    german: "fahren",
-    english: "to drive",
-    example: "Er fährt zur Arbeit.",
-    conjugations: {
-      present: "Präsens: er fährt",
-      past: "Präteritum: er fuhr",
-      perfect: "Perfekt: er ist gefahren"
+    "german": "fahren",
+    "english": "to drive",
+    "example": "Er fährt zur Arbeit.",
+    "conjugations": {
+      "present": "Präsens: er fährt",
+      "past": "Präteritum: er fuhr",
+      "perfect": "Perfekt: er ist gefahren"
     }
   },
   {
-    german: "fliegen",
-    english: "to fly",
-    example: "Sie fliegt nach Berlin.",
-    conjugations: {
-      present: "Präsens: er fliegt",
-      past: "Präteritum: er flog",
-      perfect: "Perfekt: er ist geflogen"
+    "german": "fliegen",
+    "english": "to fly",
+    "example": "Sie fliegt nach Berlin.",
+    "conjugations": {
+      "present": "Präsens: er fliegt",
+      "past": "Präteritum: er flog",
+      "perfect": "Perfekt: er ist geflogen"
     }
   },
   {
-    german: "geben",
-    english: "to give",
-    example: "Er gibt ihr das Buch.",
-    conjugations: {
-      present: "Präsens: er gibt",
-      past: "Präteritum: er gab",
-      perfect: "Perfekt: er hat gegeben"
+    "german": "geben",
+    "english": "to give",
+    "example": "Er gibt ihr das Buch.",
+    "conjugations": {
+      "present": "Präsens: er gibt",
+      "past": "Präteritum: er gab",
+      "perfect": "Perfekt: er hat gegeben"
     }
   },
   {
-    german: "gehen",
-    english: "to go",
-    example: "Sie geht in die Schule.",
-    conjugations: {
-      present: "Präsens: er geht",
-      past: "Präteritum: er ging",
-      perfect: "Perfekt: er ist gegangen"
+    "german": "gehen",
+    "english": "to go",
+    "example": "Sie geht in die Schule.",
+    "conjugations": {
+      "present": "Präsens: er geht",
+      "past": "Präteritum: er ging",
+      "perfect": "Perfekt: er ist gegangen"
     }
   },
   {
-    german: "gewinnen",
-    english: "to win",
-    example: "Er gewinnt das Spiel.",
-    conjugations: {
-      present: "Präsens: er gewinnt",
-      past: "Präteritum: er gewann",
-      perfect: "Perfekt: er hat gewonnen"
+    "german": "gewinnen",
+    "english": "to win",
+    "example": "Er gewinnt das Spiel.",
+    "conjugations": {
+      "present": "Präsens: er gewinnt",
+      "past": "Präteritum: er gewann",
+      "perfect": "Perfekt: er hat gewonnen"
     }
   },
   {
-    german: "heißen",
-    english: "to be called",
-    example: "Er heißt Max.",
-    conjugations: {
-      present: "Präsens: er heißt",
-      past: "Präteritum: er hieß",
-      perfect: "Perfekt: er hat geheißen"
+    "german": "heißen",
+    "english": "to be called",
+    "example": "Er heißt Max.",
+    "conjugations": {
+      "present": "Präsens: er heißt",
+      "past": "Präteritum: er hieß",
+      "perfect": "Perfekt: er hat geheißen"
     }
   },
   {
-    german: "helfen",
-    english: "to help",
-    example: "Sie hilft ihrem Freund.",
-    conjugations: {
-      present: "Präsens: er hilft",
-      past: "Präteritum: er half",
-      perfect: "Perfekt: er hat geholfen"
+    "german": "helfen",
+    "english": "to help",
+    "example": "Sie hilft ihrem Freund.",
+    "conjugations": {
+      "present": "Präsens: er hilft",
+      "past": "Präteritum: er half",
+      "perfect": "Perfekt: er hat geholfen"
     }
   },
   {
-    german: "kommen",
-    english: "to come",
-    example: "Er kommt ins Büro.",
-    conjugations: {
-      present: "Präsens: er kommt",
-      past: "Präteritum: er kam",
-      perfect: "Perfekt: er ist gekommen"
+    "german": "kommen",
+    "english": "to come",
+    "example": "Er kommt ins Büro.",
+    "conjugations": {
+      "present": "Präsens: er kommt",
+      "past": "Präteritum: er kam",
+      "perfect": "Perfekt: er ist gekommen"
     }
   },
   {
-    german: "lesen",
-    english: "to read",
-    example: "Sie liest ein Buch.",
-    conjugations: {
-      present: "Präsens: er liest",
-      past: "Präteritum: er las",
-      perfect: "Perfekt: er hat gelesen"
+    "german": "lesen",
+    "english": "to read",
+    "example": "Sie liest ein Buch.",
+    "conjugations": {
+      "present": "Präsens: er liest",
+      "past": "Präteritum: er las",
+      "perfect": "Perfekt: er hat gelesen"
     }
   },
   {
-    german: "nehmen",
-    english: "to take",
-    example: "Er nimmt den Bus.",
-    conjugations: {
-      present: "Präsens: er nimmt",
-      past: "Präteritum: er nahm",
-      perfect: "Perfekt: er hat genommen"
+    "german": "nehmen",
+    "english": "to take",
+    "example": "Er nimmt den Bus.",
+    "conjugations": {
+      "present": "Präsens: er nimmt",
+      "past": "Präteritum: er nahm",
+      "perfect": "Perfekt: er hat genommen"
     }
   },
   {
-    german: "einnehmen",
-    english: "to take (a tablet)",
-    example: "Er nimmt eine Tablette ein.",
-    conjugations: {
-      present: "Präsens: er nimmt ein",
-      past: "Präteritum: er nahm ein",
-      perfect: "Perfekt: er hat eingenommen"
+    "german": "einnehmen",
+    "english": "to take (a tablet)",
+    "example": "Er nimmt eine Tablette ein.",
+    "conjugations": {
+      "present": "Präsens: er nimmt ein",
+      "past": "Präteritum: er nahm ein",
+      "perfect": "Perfekt: er hat eingenommen"
     }
   },
   {
-    german: "schießen",
-    english: "to shoot (a goal)",
-    example: "Er schießt ein Tor.",
-    conjugations: {
-      present: "Präsens: er schießt",
-      past: "Präteritum: er schoss",
-      perfect: "Perfekt: er hat geschossen"
+    "german": "schießen",
+    "english": "to shoot (a goal)",
+    "example": "Er schießt ein Tor.",
+    "conjugations": {
+      "present": "Präsens: er schießt",
+      "past": "Präteritum: er schoss",
+      "perfect": "Perfekt: er hat geschossen"
     }
   },
   {
-    german: "schlafen",
-    english: "to sleep",
-    example: "Sie schläft gut.",
-    conjugations: {
-      present: "Präsens: er schläft",
-      past: "Präteritum: er schlief",
-      perfect: "Perfekt: er hat geschlafen"
+    "german": "schlafen",
+    "english": "to sleep",
+    "example": "Sie schläft gut.",
+    "conjugations": {
+      "present": "Präsens: er schläft",
+      "past": "Präteritum: er schlief",
+      "perfect": "Perfekt: er hat geschlafen"
     }
   },
   {
-    german: "schreiben",
-    english: "to write",
-    example: "Er schreibt einen Brief.",
-    conjugations: {
-      present: "Präsens: er schreibt",
-      past: "Präteritum: er schrieb",
-      perfect: "Perfekt: er hat geschrieben"
+    "german": "schreiben",
+    "english": "to write",
+    "example": "Er schreibt einen Brief.",
+    "conjugations": {
+      "present": "Präsens: er schreibt",
+      "past": "Präteritum: er schrieb",
+      "perfect": "Perfekt: er hat geschrieben"
     }
   },
   {
-    german: "sein",
-    english: "to be",
-    example: "Er ist glücklich.",
-    conjugations: {
-      present: "Präsens: er ist",
-      past: "Präteritum: er war",
-      perfect: "Perfekt: er ist gewesen"
+    "german": "sein",
+    "english": "to be",
+    "example": "Er ist glücklich.",
+    "conjugations": {
+      "present": "Präsens: er ist",
+      "past": "Präteritum: er war",
+      "perfect": "Perfekt: er ist gewesen"
     }
   },
   {
-    german: "singen",
-    english: "to sing",
-    example: "Sie singt ein Lied.",
-    conjugations: {
-      present: "Präsens: er singt",
-      past: "Präteritum: er sang",
-      perfect: "Perfekt: er hat gesungen"
+    "german": "singen",
+    "english": "to sing",
+    "example": "Sie singt ein Lied.",
+    "conjugations": {
+      "present": "Präsens: er singt",
+      "past": "Präteritum: er sang",
+      "perfect": "Perfekt: er hat gesungen"
     }
   },
   {
-    german: "stehen",
-    english: "to stand",
-    example: "Er steht am Fenster.",
-    conjugations: {
-      present: "Präsens: er steht",
-      past: "Präteritum: er stand",
-      perfect: "Perfekt: er hat gestanden"
+    "german": "stehen",
+    "english": "to stand",
+    "example": "Er steht am Fenster.",
+    "conjugations": {
+      "present": "Präsens: er steht",
+      "past": "Präteritum: er stand",
+      "perfect": "Perfekt: er hat gestanden"
     }
   },
   {
-    german: "aufstehen",
-    english: "to get up",
-    example: "Er steht früh auf.",
-    conjugations: {
-      present: "Präsens: er steht auf",
-      past: "Präteritum: er stand auf",
-      perfect: "Perfekt: er ist aufgestanden"
+    "german": "aufstehen",
+    "english": "to get up",
+    "example": "Er steht früh auf.",
+    "conjugations": {
+      "present": "Präsens: er steht auf",
+      "past": "Präteritum: er stand auf",
+      "perfect": "Perfekt: er ist aufgestanden"
     }
   },
   {
-    german: "sprechen",
-    english: "to speak",
-    example: "Er spricht Deutsch.",
-    conjugations: {
-      present: "Präsens: er spricht",
-      past: "Präteritum: er sprach",
-      perfect: "Perfekt: er hat gesprochen"
+    "german": "sprechen",
+    "english": "to speak",
+    "example": "Er spricht Deutsch.",
+    "conjugations": {
+      "present": "Präsens: er spricht",
+      "past": "Präteritum: er sprach",
+      "perfect": "Perfekt: er hat gesprochen"
     }
   },
   {
-    german: "trinken",
-    english: "to drink",
-    example: "Er trinkt Wasser.",
-    conjugations: {
-      present: "Präsens: er trinkt",
-      past: "Präteritum: er trank",
-      perfect: "Perfekt: er hat getrunken"
+    "german": "trinken",
+    "english": "to drink",
+    "example": "Er trinkt Wasser.",
+    "conjugations": {
+      "present": "Präsens: er trinkt",
+      "past": "Präteritum: er trank",
+      "perfect": "Perfekt: er hat getrunken"
     }
   },
   {
-    german: "umziehen",
-    english: "to move (to a city)",
-    example: "Sie zieht in eine neue Stadt um.",
-    conjugations: {
-      present: "Präsens: er zieht um",
-      past: "Präteritum: er zog um",
-      perfect: "Perfekt: er ist umgezogen"
+    "german": "umziehen",
+    "english": "to move (to a city)",
+    "example": "Sie zieht in eine neue Stadt um.",
+    "conjugations": {
+      "present": "Präsens: er zieht um",
+      "past": "Präteritum: er zog um",
+      "perfect": "Perfekt: er ist umgezogen"
     }
   },
   {
-    german: "vergessen",
-    english: "to forget",
-    example: "Er vergisst oft seine Schlüssel.",
-    conjugations: {
-      present: "Präsens: er vergisst",
-      past: "Präteritum: er vergaß",
-      perfect: "Perfekt: er hat vergessen"
+    "german": "vergessen",
+    "english": "to forget",
+    "example": "Er vergisst oft seine Schlüssel.",
+    "conjugations": {
+      "present": "Präsens: er vergisst",
+      "past": "Präteritum: er vergaß",
+      "perfect": "Perfekt: er hat vergessen"
     }
   },
   {
-    german: "abschließen",
-    english: "to complete (a degree)",
-    example: "Er schließt sein Studium ab.",
-    conjugations: {
-      present: "Präsens: er schließt ab",
-      past: "Präteritum: er schloss ab",
-      perfect: "Perfekt: er hat abgeschlossen"
+    "german": "abschließen",
+    "english": "to complete (a degree)",
+    "example": "Er schließt sein Studium ab.",
+    "conjugations": {
+      "present": "Präsens: er schließt ab",
+      "past": "Präteritum: er schloss ab",
+      "perfect": "Perfekt: er hat abgeschlossen"
     }
   },
   {
-    german: "anfangen",
-    english: "to start",
-    example: "Sie fängt das Projekt an.",
-    conjugations: {
-      present: "Präsens: er fängt an",
-      past: "Präteritum: er fing an",
-      perfect: "Perfekt: er hat angefangen"
+    "german": "anfangen",
+    "english": "to start",
+    "example": "Sie fängt das Projekt an.",
+    "conjugations": {
+      "present": "Präsens: er fängt an",
+      "past": "Präteritum: er fing an",
+      "perfect": "Perfekt: er hat angefangen"
     }
   },
   {
-    german: "aufstehen",
-    english: "to get up",
-    example: "Er steht früh auf.",
-    conjugations: {
-      present: "Präsens: er steht auf",
-      past: "Präteritum: er stand auf",
-      perfect: "Perfekt: er ist aufgestanden"
+    "german": "aufstehen",
+    "english": "to get up",
+    "example": "Er steht früh auf.",
+    "conjugations": {
+      "present": "Präsens: er steht auf",
+      "past": "Präteritum: er stand auf",
+      "perfect": "Perfekt: er ist aufgestanden"
     }
   },
   {
-    german: "backen",
-    english: "to bake (a bread)",
-    example: "Sie bäckt ein Brot.",
-    conjugations: {
-      present: "Präsens: er bäckt",
-      past: "Präteritum: er buk",
-      perfect: "Perfekt: er hat gebacken"
+    "german": "backen",
+    "english": "to bake (a bread)",
+    "example": "Sie bäckt ein Brot.",
+    "conjugations": {
+      "present": "Präsens: er bäckt",
+      "past": "Präteritum: er buk",
+      "perfect": "Perfekt: er hat gebacken"
     }
   },
   {
-    german: "beginnen",
-    english: "to begin",
-    example: "Es beginnt zu regnen.",
-    conjugations: {
-      present: "Präsens: er beginnt",
-      past: "Präteritum: er begann",
-      perfect: "Perfekt: er hat begonnen"
+    "german": "beginnen",
+    "english": "to begin",
+    "example": "Es beginnt zu regnen.",
+    "conjugations": {
+      "present": "Präsens: er beginnt",
+      "past": "Präteritum: er begann",
+      "perfect": "Perfekt: er hat begonnen"
     }
   },
   {
-    german: "bekommen",
-    english: "to get (a job)",
-    example: "Er bekommt eine neue Stelle.",
-    conjugations: {
-      present: "Präsens: er bekommt",
-      past: "Präteritum: er bekam",
-      perfect: "Perfekt: er hat bekommen"
+    "german": "bekommen",
+    "english": "to get (a job)",
+    "example": "Er bekommt eine neue Stelle.",
+    "conjugations": {
+      "present": "Präsens: er bekommt",
+      "past": "Präteritum: er bekam",
+      "perfect": "Perfekt: er hat bekommen"
     }
   },
   {
-    german: "bieten",
-    english: "to offer (a chance)",
-    example: "Das Unternehmen bietet eine Chance.",
-    conjugations: {
-      present: "Präsens: er bietet",
-      past: "Präteritum: er bot",
-      perfect: "Perfekt: er hat geboten"
+    "german": "bieten",
+    "english": "to offer (a chance)",
+    "example": "Das Unternehmen bietet eine Chance.",
+    "conjugations": {
+      "present": "Präsens: er bietet",
+      "past": "Präteritum: er bot",
+      "perfect": "Perfekt: er hat geboten"
     }
   },
   {
-    german: "bleiben",
-    english: "to stay",
-    example: "Er bleibt zu Hause.",
-    conjugations: {
-      present: "Präsens: er bleibt",
-      past: "Präteritum: er blieb",
-      perfect: "Perfekt: er ist geblieben"
+    "german": "bleiben",
+    "english": "to stay",
+    "example": "Er bleibt zu Hause.",
+    "conjugations": {
+      "present": "Präsens: er bleibt",
+      "past": "Präteritum: er blieb",
+      "perfect": "Perfekt: er ist geblieben"
     }
   }
 ]
