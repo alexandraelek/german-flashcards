@@ -18,7 +18,6 @@
       "past": "Präteritum: er fing an",
       "perfect": "Perfekt: er hat angefangen"
     }
-  },
-  // Add more verbs here without a trailing comma on the last item
-]
+  }
+];
 
