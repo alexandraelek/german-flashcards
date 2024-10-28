@@ -1,23 +1,24 @@
 [
   {
-    "german": "aussteigen",
-    "english": "to get off",
-    "example": "Er steigt aus dem Bus aus.",
+    "german": "sich verlieben",
+    "english": "to fall in love",
+    "example": "Er verliebt sich in sie.",
     "conjugations": {
-      "present": "Präsens: er steigt aus",
-      "past": "Präteritum: er stieg aus",
-      "perfect": "Perfekt: er ist ausgestiegen"
+      "present": "Präsens: er verliebt sich",
+      "past": "Präteritum: er verliebte sich",
+      "perfect": "Perfekt: er hat sich verliebt"
     }
   },
   {
-    "german": "einsteigen",
-    "english": "to get in",
-    "example": "Er steigt in das Auto ein.",
+    "german": "anfangen",
+    "english": "to begin",
+    "example": "Das Spiel fängt an.",
     "conjugations": {
-      "present": "Präsens: er steigt ein",
-      "past": "Präteritum: er stieg ein",
-      "perfect": "Perfekt: er ist eingestiegen"
+      "present": "Präsens: er fängt an",
+      "past": "Präteritum: er fing an",
+      "perfect": "Perfekt: er hat angefangen"
     }
-  }
-  // Add more verbs following this structure
+  },
+  // Add more verbs here without a trailing comma on the last item
 ]
+
