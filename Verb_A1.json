@@ -35,7 +35,7 @@
 {"german": "wohnen", "english": "to live", "example": "Er wohnt in Berlin.", "conjugations": {"present": "Präsens: er wohnt\n", "past": "Präteritum: er wohnte\n", "perfect": "Perfekt: er hat gewohnt"}},
 {"german": "zählen", "english": "to count", "example": "Er zählt bis zehn.", "conjugations": {"present": "Präsens: er zählt\n", "past": "Präteritum: er zählte\n", "perfect": "Perfekt: er hat gezählt"}}, 
 {"german": "zuordnen", "english": "to assign", "example": "Er ordnet die Wörter zu.", "conjugations": {"present": "Präsens: er ordnet zu\n", "past": "Präteritum: er ordnete zu\n", "perfect": "Perfekt: er hat zugeordnet"}},
-{"german": "zubereiten", "english": "to prepare", "example": "Er bereitet das Menü zu.", "conjugations": {"present": "Präsens: er bereitet zu\n", "past": "Präteritum: er bereitete zu", r drehte", ""perfect": "Perfekt: er hat zubereitet"}}, 
+{"german": "zubereiten", "english": "to prepare", "example": "Er bereitet das Menü zu.", "conjugations": {"present": "Präsens: er bereitet zu\n", "past": "Präteritum: er bereitete zu\n", "perfect": "Perfekt: er hat zubereitet"}}, 
 {"german": "zuhören", "english": "to listen", "example": "Er hört der Musik zu.", "conjugations": {"present": "Präsens: er hört zu\n", "past": "Präteritum: er hörte zu\n", "perfect": "Perfekt: er hat zugehört"}},
 {"german": "verwenden", "english": "to use", "example": "Er verwendet einen Laptop.", "conjugations": {"present": "Präsens: er verwendet\n", "past": "Präteritum: er verwendete\n", "perfect": "Perfekt: er hat verwendet"}},
 {"german": "akzeptieren", "english": "to accept", "example": "Er akzeptiert die Einladung.", "conjugations": {"present": "Präsens: er akzeptiert\n", "past": "Präteritum: er akzeptierte\n", "perfect": "Perfekt: er hat akzeptiert"}},
